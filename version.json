@@ -1,0 +1,10 @@
+{
+  "latest_version": "v1.0.49",
+  "version_code": 149,
+  "updated_at": "2026-11-17",
+  "download_url": "https://hmkim829.github.io/nudge-bible-data/nudge_ai_v1.0.49.enc",
+  "release_note": "잠언 19장 6절 문맥 표현 개선 및 마태복음 1장 1절 족보 표현 직관화 (v1.0.49)",
+  "total_books": 66,
+  "total_chapters": 1189,
+  "total_verses": 31102
+}
