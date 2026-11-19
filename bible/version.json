@@ -1,9 +1,9 @@
 {
-  "latest_version": "v1.0.50",
-  "version_code": 150,
-  "updated_at": "2026-11-18",
-  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.50.enc",
-  "release_note": "마태복음 1장 1절 계보 표현 직관화 및 피드백 반영 (v1.0.50)",
+  "latest_version": "v1.0.51",
+  "version_code": 151,
+  "updated_at": "2026-11-19",
+  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.51.enc",
+  "release_note": "창세기 9장 13절 언약의 징표 표현 다듬기 및 피드백 반영 (v1.0.51)",
   "total_books": 66,
   "total_chapters": 1189,
   "total_verses": 31102
