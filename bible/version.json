@@ -1,9 +1,9 @@
 {
-  "latest_version": "v1.0.51",
-  "version_code": 151,
-  "updated_at": "2026-11-19",
-  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.51.enc",
-  "release_note": "창세기 9장 13절 언약의 징표 표현 다듬기 및 피드백 반영 (v1.0.51)",
+  "latest_version": "v1.0.52",
+  "version_code": 152,
+  "updated_at": "2026-11-21",
+  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.52.enc",
+  "release_note": "마태복음 3장 1~6절 세례 요한의 광야 선포 표현 다듬기 및 피드백 반영 (v1.0.52)",
   "total_books": 66,
   "total_chapters": 1189,
   "total_verses": 31102
