@@ -1,9 +1,9 @@
 {
-  "latest_version": "v1.0.53",
-  "version_code": 153,
-  "updated_at": "2026-11-22",
-  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.53.enc",
-  "release_note": "시편 1편 1절, 6절 의인과 악인의 길 대조 표현 다듬기 및 피드백 반영 (v1.0.53)",
+  "latest_version": "v1.0.54",
+  "version_code": 154,
+  "updated_at": "2026-11-24",
+  "download_url": "https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.54.enc",
+  "release_note": "창세기 14장 1~9절 왕들의 전쟁 본문 표현 정제 및 피드백 반영 (v1.0.54)",
   "total_books": 66,
   "total_chapters": 1189,
   "total_verses": 31102
