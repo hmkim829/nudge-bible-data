@@ -12,10 +12,6 @@ nudge-bible-data/
 │   ├── version.json        # 최신 번역본 버전 및 다운로드 URL
 │   └── nudge_ai_v*.enc     # AES-256 암호화된 최신 넛지 AI 번역본 바이너리
 │
-├── nudges/                 # 🌱 매일 말씀 & 위로 알림 OTA 패키지
-│   ├── version.json        # 알림 데이터셋 버전 및 메타데이터
-│   └── daily_nudges.json   # 1년 365일 날짜별 큐레이션 말씀 및 코멘트
-│
 ├── themes/                 # 💭 (예정) 상황별/감정별 맞춤 말씀 패키지
 │   └── situational.json    # 불안, 위로, 감사 등 테마별 말씀 모음
 │
@@ -28,8 +24,4 @@ nudge-bible-data/
 
 ### 1. 성경 번역본 (`/bible`)
 * **버전 확인:** `https://hmkim829.github.io/nudge-bible-data/bible/version.json`
-* **최신 번역본 다운로드:** `https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.49.enc`
-
-### 2. 매일 넛지 알림 (`/nudges`)
-* **버전 확인:** `https://hmkim829.github.io/nudge-bible-data/nudges/version.json`
-* **알림 데이터 다운로드:** `https://hmkim829.github.io/nudge-bible-data/nudges/daily_nudges.json`
+* **최신 번역본 다운로드:** `https://hmkim829.github.io/nudge-bible-data/bible/nudge_ai_v1.0.54.enc`
